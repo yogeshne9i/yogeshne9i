@@ -31,19 +31,6 @@
 
 <br clear="both">
 
-<!-- Snake SVG -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogeshne9i/yogeshne9i/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yogeshne9i/yogeshne9i/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/yogeshne9i/yogeshne9i/output/github-snake.svg" />
-</picture>
-
-<!-- Pacman SVG -->
-<picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yogeshne9i/yogeshne9i/output/pacman-contribution-graph-dark.svg">
-   <img alt="Pacman animation" src="https://raw.githubusercontent.com/yogeshne9i/yogeshne9i/output/pacman-contribution-graph.svg" />
-</picture>
-
 ---
 
 <p align="center">
